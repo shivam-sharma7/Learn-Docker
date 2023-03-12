@@ -1,5 +1,5 @@
 # <div align="center">Welcome to Docker Tutorial
-[banner](./banner.jpg)
+![banner](./banner.jpg)
 </div>
 
 ## [The topics covered in this repository](Learn-Docker.md)
